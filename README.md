@@ -1,2 +1,2 @@
 # ALgoRhythm
-Dismantling
+Dismantling an atomic brain
